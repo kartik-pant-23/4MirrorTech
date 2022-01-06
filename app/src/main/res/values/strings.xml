@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mirror Tech</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_monitor">Monitor</string>
+    <string name="title_learn">Learn</string>
+    <string name="title_settings">Settings</string>
+</resources>

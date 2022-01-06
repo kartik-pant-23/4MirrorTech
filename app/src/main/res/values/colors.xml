@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#FFE100</color>
+    <color name="status_bar_color">#009E74</color>
+    <color name="dark_secondary">#0F6860</color>
+    <color name="window_background">#FAFAFA</color>
+    <color name="toolbar_color">#FFFFFF</color>
+
+    <color name="dark_text_color">#1D1D1D</color>
+    <color name="white_text_color">#FFFFFF</color>
+</resources>
